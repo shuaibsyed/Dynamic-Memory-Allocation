@@ -1,2 +1,2 @@
 # Dynamic-Memory-Allocation
-This project was a modification to the structure project from earlier but using dynamic memory allocation to implement the same structures instead
+In this project, we modified the previous structure implementation by utilizing dynamic memory allocation to create and manage the same structures efficiently.
